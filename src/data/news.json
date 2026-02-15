@@ -1,0 +1,114 @@
+{
+  "title": "The Daily Chronicle",
+  "date": "15 February 2026",
+  "edition": "Morning Edition",
+  "featured": {
+    "id": 100,
+    "category": "Technology",
+    "headline": "Artificial Intelligence Enters Mainstream Enterprise Development",
+    "subheadline": "From startups to Fortune 500 companies, AI-driven systems are redefining software engineering workflows.",
+    "author": "Editorial Team",
+    "readTime": "6 min read",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995",
+    "content": "Artificial Intelligence has moved beyond experimentation and into the core of enterprise software development. Organizations are embedding AI models directly into production systems, automating testing pipelines, optimizing infrastructure, and enhancing decision-making processes. The adoption curve has accelerated dramatically in the last two years, marking a structural shift in how modern digital products are built and scaled."
+  },
+  "articles": [
+    {
+      "id": 1,
+      "category": "Technology",
+      "headline": "AI Is Reshaping Full Stack Development",
+      "author": "Diptanu Das",
+      "readTime": "4 min read",
+      "tags": ["AI", "Development", "Engineering"],
+      "trending": true,
+      "content": "Artificial Intelligence is transforming how developers build, test, and deploy applications. Modern AI-powered development tools integrate directly into coding environments, accelerating productivity and reducing repetitive work. This shift is changing expectations across engineering teams worldwide."
+    },
+    {
+      "id": 2,
+      "category": "Business",
+      "headline": "Startups Focus on Sustainable Growth",
+      "author": "Editorial Desk",
+      "readTime": "3 min read",
+      "tags": ["Startup", "Finance"],
+      "trending": true,
+      "content": "Investors are prioritizing sustainable business models over aggressive expansion. Companies demonstrating capital discipline and long-term viability are gaining stronger institutional backing."
+    },
+    {
+      "id": 3,
+      "category": "World",
+      "headline": "Global Markets Show Signs of Recovery",
+      "author": "Market Analyst",
+      "readTime": "5 min read",
+      "tags": ["Markets", "Economy"],
+      "trending": false,
+      "content": "After prolonged volatility, global financial markets are stabilizing. Strengthened trade policies and improved consumer demand are restoring confidence among institutional investors."
+    },
+    {
+      "id": 4,
+      "category": "Technology",
+      "headline": "Cloud Infrastructure Spending Reaches Record High",
+      "author": "Tech Correspondent",
+      "readTime": "4 min read",
+      "tags": ["Cloud", "AWS", "Azure"],
+      "trending": true,
+      "content": "Global cloud infrastructure spending has surged as enterprises accelerate digital transformation initiatives. Hybrid cloud strategies are now the dominant deployment model."
+    },
+    {
+      "id": 5,
+      "category": "Business",
+      "headline": "Digital Payments Cross Historic Milestone",
+      "author": "Finance Reporter",
+      "readTime": "3 min read",
+      "tags": ["Fintech", "Payments"],
+      "trending": false,
+      "content": "Digital transactions have crossed a major milestone globally, with contactless and mobile-based payments driving rapid adoption across emerging markets."
+    },
+    {
+      "id": 6,
+      "category": "World",
+      "headline": "Renewable Energy Investments Accelerate",
+      "author": "Energy Analyst",
+      "readTime": "4 min read",
+      "tags": ["Energy", "Sustainability"],
+      "trending": true,
+      "content": "Governments and private investors are committing record funds to renewable energy infrastructure, signaling a long-term transition toward sustainable power generation."
+    },
+    {
+      "id": 7,
+      "category": "Technology",
+      "headline": "Cybersecurity Threat Landscape Evolves",
+      "author": "Security Desk",
+      "readTime": "5 min read",
+      "tags": ["Security", "Cyber"],
+      "trending": false,
+      "content": "With increased digital adoption comes greater vulnerability. Organizations are reinforcing security frameworks and adopting zero-trust architectures."
+    },
+    {
+      "id": 8,
+      "category": "Business",
+      "headline": "Remote Work Policies Become Permanent",
+      "author": "Workplace Editor",
+      "readTime": "3 min read",
+      "tags": ["Remote", "Workplace"],
+      "trending": false,
+      "content": "Several multinational corporations have permanently adopted hybrid work policies, restructuring office infrastructure and workforce strategies."
+    }
+  ],
+  "trendingSection": [
+    {
+      "id": 201,
+      "headline": "AI Startups Attract Record Funding",
+      "category": "Trending"
+    },
+    {
+      "id": 202,
+      "headline": "Global Semiconductor Supply Improves",
+      "category": "Trending"
+    },
+    {
+      "id": 203,
+      "headline": "Tech Layoffs Slow Down in Q1 2026",
+      "category": "Trending"
+    }
+  ]
+}
